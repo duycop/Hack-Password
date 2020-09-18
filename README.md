@@ -13,6 +13,22 @@ with 5 rules:
 
 scan password is 1703
 
+# Scan demo
+
+Rule:
+
+1258 11
+
+5496 00 
+
+9238 10 
+
+2781 21 
+
+4290 10  
+
+Click Scan Password -> 1703
+
 # TIP
 input password is 1703
 
